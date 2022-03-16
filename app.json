@@ -7,17 +7,17 @@
   "env": {
     "TL_APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "16649767",
       "required": true
     },
     "TL_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "1bd2e03ec2d58011f35d5bb209f5303b",
       "required": true
     },
     "TOKEN": {
       "description": "Get your bot token from @botfather",
-      "value": "",
+      "value": "5106970838:AAGZOvlGwdkglAFGzU9u7CYs20qhNQ0oZZI",
       "required": true
     },
     "SQLALCHEMY_DATABASE_URI": {
@@ -44,7 +44,7 @@
     },
     "GBAN_LOGS": {
       "description": "The group id for logging all gbans.. ⚠️ Remember:- You must add your bot to that group..",
-      "value": "",
+      "value": "-1001602572167",
       "required": true
     },
     "DONATION_LINK": {
@@ -54,23 +54,23 @@
     },
     "SUDO_USERS": {
       "description": "List of user id's who will have SUDO rights in your bot(they can't be banned/warned etc. by the bot)",
-      "value": "1742353529",
+      "value": "",
       "required": false
     },
     "SUPPORT_USERS": {
       "description": "Support users Id's.",
       "required": false,
-      "value": "1742353529"
+      "value": ""
    },
    "WHITELIST_USERS": {
      "description": "Whitelist user Id's.",
      "required": false,
-     "value": "1742353529"
+     "value": ""
    },
    "DEV_USERS": {
      "description": "Developers id",
      "required": false,
-     "value": "1742353529"
+     "value": ""
    },
    "WEBHOOK": {
       "description": "Nothing here.",
@@ -89,7 +89,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your ID",
-      "value": "",
+      "value": "1087968824",
       "required": true
     },
     "TEMP_DOWNLOAD_DIRECTORY": {
@@ -99,7 +99,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "",
+      "value": "@Ghost_of_Uchiha_07",
       "required": true
     },
     "DEL_CMDS": {
@@ -119,7 +119,7 @@
     },
     "MESSAGE_DUMP": {
       "description": "A chat for logging bot events.. ⚠️ Remember :- You must add your bot to that group.. Otherwise telethon modules never works.. Eg songs etc💌",
-      "value": "",
+      "value": "-1001602572167",
       "required": true
     },
     "TIME_API_KEY": {
